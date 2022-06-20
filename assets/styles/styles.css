@@ -11,6 +11,18 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 900 !important;
 }
 
+.razorpay{
+	background-color: none;
+	padding:8rem;
+	color:#fff;
+	box-shadow: 0 0 10px hsla(0,0%,4%,.7);
+}
+.razorpay:hover{
+	text-transform: Uppercase;
+	background-color: rgba(236, 236, 241, 0.966);
+	color:rgba(34, 63, 231, 0.623);
+}
+
 .wrapper {
 		background: #E3E3E3;
 }
