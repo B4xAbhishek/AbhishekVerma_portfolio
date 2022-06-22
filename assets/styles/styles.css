@@ -345,9 +345,9 @@ h1, h2, h3, h4, h5, h6 {
   
   @import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;900&display=swap");
   
-  body {
+  /* body {
 	font: 400 1.5em/1.58 Vollkorn, serif;
-  }
+  } */
   
   h1,
   p {
